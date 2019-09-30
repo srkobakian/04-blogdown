@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Bake Off"
-  url = "/post"
+  name = "Talks"
+  url = "/talk"
   weight = 10
 
 [[main]]
